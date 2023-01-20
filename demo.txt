@@ -1,3 +1,4 @@
 change content at 20 jan
 this file change1
 perform fast forward merge
+test for 3 way
